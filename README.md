@@ -1,3 +1,4 @@
+![ClimateTrack](https://github.com/pranotidhangar/ClimateTrack/assets/131478879/938a8f59-19f7-43bc-9283-982b248c7a12)
 # ClimateTrack
 Weather App is a web application created using HTML, CSS, and JavaScript. It leverages a weather API to provide real-time weather updates based on the user's current location. Additionally, the app offers a forecast for upcoming days, ensuring users stay prepared for changing weather conditions.
 
